@@ -1,2 +1,2 @@
-# Portfolio-project
-Presenting my CV using web development skills (HTML and CSS)
+# 1st project
+description
